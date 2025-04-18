@@ -1,0 +1,361 @@
+Date,Importer,Item Description,Quantity,Unit Price,Country of Origin,Tax Rate,Total Value
+2023-05-31,Importer B,Textiles,554,503.11,USA,0.1,278722.94
+2022-03-31,Importer B,Machinery,448,76.5,China,0.05,34272.0
+2021-08-31,Importer A,Electronics,500,411.2,China,0.1,205600.0
+2022-09-30,Importer C,Electronics,15,502.49,China,0.05,7537.35
+2022-07-31,Importer A,Electronics,623,723.0,India,0.05,450429.0
+2022-11-30,Importer B,Food Products,669,115.51,Germany,0.05,77276.19
+2021-11-30,Importer B,Textiles,289,148.62,India,0.1,42951.18
+2021-11-30,Importer A,Food Products,478,271.05,Germany,0.05,129561.90000000001
+2022-12-31,Importer C,Electronics,231,273.83,Germany,0.1,63254.729999999996
+2023-12-31,Importer B,Textiles,923,734.86,USA,0.2,678275.78
+2022-12-31,Importer B,Electronics,420,258.22,USA,0.15,108452.40000000001
+2021-03-31,Importer B,Food Products,157,636.77,Germany,0.15,99972.89
+2022-10-31,Importer A,Food Products,550,499.33,Germany,0.05,274631.5
+2021-02-28,Importer B,Food Products,441,577.56,India,0.1,254703.95999999996
+2022-12-31,Importer C,Electronics,97,839.73,India,0.15,81453.81
+2023-06-30,Importer B,Textiles,997,410.34,USA,0.1,409108.98
+2021-02-28,Importer B,Textiles,411,773.2,China,0.1,317785.2
+2022-09-30,Importer C,Electronics,951,427.82,Germany,0.05,406856.82
+2023-09-30,Importer B,Textiles,289,360.33,India,0.15,104135.37
+2021-12-31,Importer A,Electronics,254,959.04,USA,0.05,243596.16
+2022-10-31,Importer A,Textiles,196,192.53,India,0.05,37735.88
+2023-01-31,Importer A,Machinery,598,99.43,Germany,0.15,59459.14000000001
+2023-03-31,Importer C,Machinery,834,773.28,Germany,0.15,644915.52
+2023-04-30,Importer B,Food Products,522,77.57,South Africa,0.2,40491.53999999999
+2022-04-30,Importer A,Machinery,517,838.71,China,0.2,433613.07
+2022-03-31,Importer C,Machinery,635,442.82,South Africa,0.1,281190.7
+2021-03-31,Importer B,Machinery,842,916.36,USA,0.15,771575.12
+2021-07-31,Importer C,Electronics,865,724.32,India,0.2,626536.8
+2022-09-30,Importer A,Machinery,118,614.3,USA,0.1,72487.4
+2021-09-30,Importer A,Machinery,806,949.81,Germany,0.1,765546.86
+2022-06-30,Importer A,Food Products,909,402.68,South Africa,0.1,366036.12
+2021-04-30,Importer C,Machinery,159,954.55,South Africa,0.2,151773.44999999998
+2023-01-31,Importer C,Machinery,815,143.65,South Africa,0.15,117074.75
+2022-02-28,Importer A,Textiles,228,488.92,USA,0.05,111473.76000000001
+2021-09-30,Importer C,Food Products,877,277.21,Germany,0.1,243113.16999999998
+2023-02-28,Importer A,Food Products,216,544.44,India,0.2,117599.04000000001
+2021-02-28,Importer A,Food Products,948,170.39,India,0.2,161529.72
+2022-08-31,Importer B,Food Products,696,843.11,USA,0.05,586804.56
+2023-04-30,Importer C,Food Products,15,847.94,South Africa,0.05,12719.1
+2021-07-31,Importer A,Food Products,157,955.68,China,0.2,150041.75999999998
+2021-08-31,Importer A,Electronics,648,163.13,USA,0.15,105708.23999999999
+2023-11-30,Importer C,Machinery,261,627.1,USA,0.05,163673.1
+2022-02-28,Importer B,Food Products,157,479.49,Germany,0.2,75279.93000000001
+2022-05-31,Importer B,Machinery,47,350.94,India,0.05,16494.18
+2023-12-31,Importer A,Machinery,324,358.02,USA,0.15,115998.48
+2021-04-30,Importer C,Electronics,844,418.67,USA,0.1,353357.48000000004
+2021-02-28,Importer B,Food Products,685,707.88,South Africa,0.05,484897.8
+2021-06-30,Importer C,Textiles,130,602.3,South Africa,0.15,78299.0
+2021-04-30,Importer C,Electronics,411,465.08,China,0.2,191147.88
+2023-05-31,Importer A,Textiles,95,85.17,Germany,0.05,8091.150000000001
+2022-06-30,Importer B,Machinery,627,86.99,China,0.05,54542.729999999996
+2023-02-28,Importer A,Machinery,755,12.32,South Africa,0.2,9301.6
+2023-10-31,Importer B,Electronics,932,968.02,India,0.1,902194.64
+2021-10-31,Importer B,Electronics,292,15.2,South Africa,0.2,4438.4
+2023-12-31,Importer B,Textiles,794,112.06,Germany,0.05,88975.64
+2022-02-28,Importer B,Food Products,811,321.45,South Africa,0.2,260695.94999999998
+2023-07-31,Importer B,Textiles,283,809.36,Germany,0.15,229048.88
+2022-03-31,Importer C,Electronics,69,962.48,Germany,0.2,66411.12
+2021-08-31,Importer A,Textiles,660,792.11,Germany,0.05,522792.60000000003
+2022-02-28,Importer C,Electronics,11,693.65,Germany,0.2,7630.15
+2022-11-30,Importer B,Textiles,254,526.09,Germany,0.1,133626.86000000002
+2022-09-30,Importer A,Electronics,842,95.84,India,0.2,80697.28
+2022-04-30,Importer B,Electronics,872,958.59,China,0.1,835890.48
+2022-06-30,Importer A,Electronics,550,760.81,USA,0.15,418445.49999999994
+2022-12-31,Importer C,Food Products,134,642.56,China,0.1,86103.04
+2023-02-28,Importer A,Textiles,712,761.45,Germany,0.2,542152.4
+2023-01-31,Importer A,Textiles,23,726.86,India,0.05,16717.78
+2023-05-31,Importer A,Textiles,815,640.86,South Africa,0.1,522300.9
+2022-03-31,Importer A,Electronics,346,980.77,India,0.15,339346.42
+2021-01-31,Importer A,Textiles,302,904.33,Germany,0.1,273107.66000000003
+2023-01-31,Importer B,Textiles,363,650.2,India,0.1,236022.6
+2021-07-31,Importer A,Electronics,396,696.24,India,0.1,275711.04
+2021-09-30,Importer A,Machinery,218,61.08,Germany,0.15,13315.44
+2022-12-31,Importer C,Electronics,141,673.22,India,0.2,94924.02
+2021-01-31,Importer A,Textiles,616,53.72,USA,0.1,33091.52
+2021-08-31,Importer C,Electronics,958,592.38,USA,0.1,567500.04
+2022-12-31,Importer B,Machinery,210,999.36,India,0.05,209865.6
+2021-11-30,Importer A,Electronics,985,560.25,South Africa,0.15,551846.25
+2022-05-31,Importer C,Textiles,993,478.48,Germany,0.1,475130.64
+2021-08-31,Importer C,Machinery,623,319.73,USA,0.15,199191.79
+2023-11-30,Importer B,Food Products,616,129.32,South Africa,0.1,79661.12
+2023-11-30,Importer A,Textiles,828,733.71,India,0.2,607511.88
+2023-09-30,Importer A,Machinery,683,200.67,South Africa,0.2,137057.61
+2021-05-31,Importer C,Machinery,460,124.13,China,0.1,57099.799999999996
+2023-04-30,Importer A,Food Products,356,427.55,USA,0.2,152207.80000000002
+2021-07-31,Importer C,Electronics,324,797.39,India,0.1,258354.36
+2021-09-30,Importer A,Electronics,133,747.61,Germany,0.2,99432.13
+2021-08-31,Importer C,Textiles,888,64.33,India,0.05,57125.04
+2021-12-31,Importer A,Food Products,805,460.59,Germany,0.05,370774.94999999995
+2023-10-31,Importer B,Electronics,840,527.21,India,0.05,442856.4
+2023-09-30,Importer A,Food Products,127,648.1,South Africa,0.15,82308.7
+2022-11-30,Importer A,Electronics,106,653.67,South Africa,0.15,69289.01999999999
+2022-12-31,Importer B,Machinery,604,371.05,South Africa,0.05,224114.2
+2023-11-30,Importer A,Electronics,799,565.07,China,0.15,451490.93000000005
+2022-10-31,Importer B,Food Products,378,486.25,Germany,0.2,183802.5
+2023-03-31,Importer A,Machinery,905,886.15,South Africa,0.1,801965.75
+2023-11-30,Importer C,Machinery,51,534.96,China,0.1,27282.960000000003
+2021-01-31,Importer C,Machinery,29,446.62,Germany,0.1,12951.98
+2023-11-30,Importer A,Food Products,462,410.44,India,0.05,189623.28
+2022-02-28,Importer A,Textiles,296,576.7,China,0.15,170703.2
+2021-03-31,Importer A,Textiles,297,805.94,USA,0.2,239364.18000000002
+2021-01-31,Importer C,Textiles,726,543.02,China,0.2,394232.51999999996
+2021-05-31,Importer A,Food Products,779,665.04,China,0.05,518066.16
+2023-02-28,Importer C,Machinery,407,740.48,Germany,0.2,301375.36
+2022-02-28,Importer B,Textiles,769,524.97,India,0.2,403701.93
+2023-03-31,Importer C,Food Products,814,432.55,USA,0.2,352095.7
+2021-09-30,Importer C,Textiles,613,877.9,South Africa,0.2,538152.7
+2022-03-31,Importer B,Electronics,405,423.33,South Africa,0.15,171448.65
+2022-03-31,Importer C,Textiles,346,467.32,China,0.2,161692.72
+2023-02-28,Importer A,Textiles,622,990.44,Germany,0.1,616053.68
+2022-01-31,Importer A,Machinery,420,10.24,Germany,0.05,4300.8
+2023-08-31,Importer C,Food Products,182,193.62,South Africa,0.15,35238.840000000004
+2023-08-31,Importer A,Machinery,983,390.12,USA,0.2,383487.96
+2021-04-30,Importer C,Machinery,825,933.26,India,0.15,769939.5
+2023-06-30,Importer A,Machinery,1,79.33,USA,0.2,79.33
+2022-11-30,Importer A,Machinery,831,19.39,India,0.1,16113.09
+2022-03-31,Importer C,Machinery,950,62.16,South Africa,0.05,59052.0
+2023-05-31,Importer A,Textiles,567,97.66,India,0.2,55373.22
+2023-12-31,Importer C,Machinery,371,47.22,Germany,0.2,17518.62
+2022-01-31,Importer A,Machinery,936,484.98,China,0.2,453941.28
+2023-08-31,Importer A,Food Products,911,584.95,China,0.2,532889.4500000001
+2021-07-31,Importer B,Electronics,661,278.97,South Africa,0.05,184399.17
+2022-10-31,Importer B,Textiles,431,404.3,Germany,0.05,174253.30000000002
+2023-04-30,Importer C,Textiles,969,100.78,USA,0.1,97655.82
+2021-02-28,Importer B,Textiles,309,343.01,Germany,0.05,105990.09
+2021-06-30,Importer C,Machinery,137,527.29,China,0.2,72238.73
+2023-04-30,Importer B,Machinery,202,734.95,China,0.1,148459.90000000002
+2023-04-30,Importer A,Machinery,436,13.31,Germany,0.1,5803.16
+2022-08-31,Importer C,Food Products,313,472.64,Germany,0.1,147936.32
+2023-06-30,Importer C,Electronics,117,304.03,China,0.2,35571.509999999995
+2021-11-30,Importer A,Machinery,666,854.29,USA,0.15,568957.14
+2023-04-30,Importer C,Electronics,937,718.4,South Africa,0.2,673140.7999999999
+2023-01-31,Importer C,Food Products,803,593.22,South Africa,0.05,476355.66000000003
+2023-09-30,Importer B,Textiles,575,284.49,Germany,0.05,163581.75
+2021-01-31,Importer C,Machinery,244,911.24,South Africa,0.2,222342.56
+2023-03-31,Importer A,Electronics,537,54.65,China,0.2,29347.05
+2022-01-31,Importer B,Electronics,602,118.37,China,0.1,71258.74
+2021-03-31,Importer B,Machinery,75,397.71,Germany,0.2,29828.25
+2021-06-30,Importer A,Textiles,806,133.19,Germany,0.1,107351.14
+2021-08-31,Importer A,Textiles,386,956.85,Germany,0.05,369344.10000000003
+2023-03-31,Importer B,Textiles,903,800.01,USA,0.1,722409.03
+2021-09-30,Importer C,Food Products,210,266.39,South Africa,0.2,55941.899999999994
+2023-09-30,Importer B,Electronics,475,592.67,Germany,0.05,281518.25
+2022-12-31,Importer A,Electronics,418,982.51,India,0.15,410689.18
+2022-03-31,Importer B,Electronics,347,885.36,India,0.1,307219.92
+2023-08-31,Importer A,Food Products,529,604.79,China,0.05,319933.91
+2023-08-31,Importer B,Electronics,640,904.69,South Africa,0.1,579001.6000000001
+2022-12-31,Importer C,Food Products,939,989.29,Germany,0.05,928943.3099999999
+2021-12-31,Importer B,Textiles,955,745.92,India,0.05,712353.6
+2021-02-28,Importer B,Machinery,876,74.34,South Africa,0.1,65121.840000000004
+2021-03-31,Importer A,Electronics,763,407.56,China,0.15,310968.28
+2022-05-31,Importer A,Electronics,179,839.45,USA,0.05,150261.55000000002
+2021-02-28,Importer A,Textiles,182,238.26,South Africa,0.05,43363.32
+2021-02-28,Importer B,Machinery,664,832.34,South Africa,0.05,552673.76
+2023-04-30,Importer C,Food Products,25,129.14,USA,0.15,3228.4999999999995
+2022-11-30,Importer A,Machinery,967,56.48,South Africa,0.15,54616.159999999996
+2023-08-31,Importer A,Textiles,180,390.25,China,0.2,70245.0
+2023-09-30,Importer B,Textiles,710,46.36,China,0.1,32915.6
+2021-01-31,Importer A,Machinery,501,957.7,USA,0.15,479807.7
+2022-07-31,Importer C,Food Products,856,827.94,Germany,0.1,708716.64
+2021-02-28,Importer C,Food Products,161,802.76,India,0.2,129244.36
+2023-02-28,Importer A,Electronics,177,633.48,Germany,0.1,112125.96
+2023-08-31,Importer A,Food Products,285,224.16,South Africa,0.15,63885.6
+2021-06-30,Importer B,Machinery,63,523.08,India,0.1,32954.04
+2023-08-31,Importer C,Textiles,662,601.3,USA,0.15,398060.6
+2021-04-30,Importer C,Electronics,666,529.78,USA,0.1,352833.48
+2021-11-30,Importer A,Electronics,156,267.63,India,0.15,41750.28
+2022-05-31,Importer B,Textiles,882,520.1,China,0.15,458728.2
+2022-12-31,Importer C,Food Products,469,496.27,India,0.1,232750.63
+2021-05-31,Importer C,Textiles,49,996.37,South Africa,0.2,48822.13
+2023-10-31,Importer B,Food Products,967,898.46,China,0.05,868810.8200000001
+2021-06-30,Importer B,Textiles,849,468.75,USA,0.2,397968.75
+2022-10-31,Importer C,Machinery,84,626.71,India,0.1,52643.64
+2021-11-30,Importer C,Food Products,361,750.39,Germany,0.2,270890.79
+2022-04-30,Importer B,Machinery,689,44.52,Germany,0.15,30674.280000000002
+2023-09-30,Importer C,Electronics,148,895.97,South Africa,0.05,132603.56
+2021-09-30,Importer A,Textiles,630,861.53,Germany,0.1,542763.9
+2021-06-30,Importer A,Electronics,342,462.86,India,0.1,158298.12
+2022-04-30,Importer B,Electronics,476,397.26,India,0.1,189095.76
+2023-05-31,Importer B,Electronics,63,280.23,Germany,0.05,17654.49
+2021-03-31,Importer B,Electronics,701,481.91,India,0.15,337818.91000000003
+2022-08-31,Importer A,Textiles,360,53.93,South Africa,0.1,19414.8
+2023-12-31,Importer C,Electronics,561,853.67,China,0.2,478908.87
+2022-07-31,Importer A,Textiles,327,45.07,South Africa,0.1,14737.89
+2023-02-28,Importer C,Textiles,769,335.76,South Africa,0.1,258199.44
+2021-03-31,Importer A,Machinery,736,932.27,India,0.1,686150.72
+2022-07-31,Importer C,Food Products,141,737.86,China,0.1,104038.26
+2022-08-31,Importer A,Food Products,990,288.58,India,0.15,285694.2
+2023-08-31,Importer B,Textiles,215,260.12,USA,0.2,55925.8
+2021-07-31,Importer A,Machinery,435,15.03,India,0.15,6538.049999999999
+2023-09-30,Importer C,Textiles,891,698.76,India,0.2,622595.16
+2022-06-30,Importer A,Textiles,952,58.3,India,0.1,55501.6
+2021-01-31,Importer A,Textiles,723,537.28,China,0.05,388453.44
+2021-11-30,Importer A,Machinery,318,962.5,India,0.15,306075.0
+2023-04-30,Importer B,Food Products,32,118.37,China,0.05,3787.84
+2023-01-31,Importer A,Machinery,670,895.54,Germany,0.15,600011.7999999999
+2022-11-30,Importer B,Electronics,285,991.56,USA,0.1,282594.6
+2023-07-31,Importer B,Machinery,305,70.9,China,0.15,21624.5
+2023-06-30,Importer A,Machinery,429,884.08,Germany,0.1,379270.32
+2023-11-30,Importer A,Machinery,477,520.92,China,0.15,248478.83999999997
+2021-07-31,Importer A,Machinery,286,907.45,China,0.1,259530.7
+2022-04-30,Importer C,Food Products,144,575.61,USA,0.1,82887.84
+2023-02-28,Importer A,Electronics,424,665.49,South Africa,0.2,282167.76
+2021-02-28,Importer B,Food Products,19,548.34,South Africa,0.1,10418.460000000001
+2021-01-31,Importer A,Food Products,18,865.85,China,0.2,15585.300000000001
+2021-12-31,Importer C,Machinery,769,736.57,India,0.1,566422.3300000001
+2021-05-31,Importer A,Textiles,590,526.05,Germany,0.05,310369.5
+2023-08-31,Importer C,Textiles,371,869.48,India,0.1,322577.08
+2021-09-30,Importer C,Food Products,175,252.83,India,0.05,44245.25
+2023-11-30,Importer A,Food Products,194,165.77,China,0.05,32159.38
+2022-07-31,Importer B,Machinery,502,168.8,China,0.1,84737.6
+2022-04-30,Importer C,Food Products,988,340.67,China,0.05,336581.96
+2021-03-31,Importer A,Machinery,113,246.3,China,0.2,27831.9
+2022-08-31,Importer A,Textiles,114,930.79,South Africa,0.15,106110.06
+2022-12-31,Importer B,Textiles,222,114.78,China,0.1,25481.16
+2023-09-30,Importer C,Electronics,678,702.0,South Africa,0.05,475956.0
+2022-12-31,Importer C,Textiles,947,197.33,South Africa,0.1,186871.51
+2021-11-30,Importer A,Food Products,831,882.82,China,0.2,733623.42
+2021-08-31,Importer A,Textiles,644,961.7,USA,0.1,619334.8
+2023-12-31,Importer B,Machinery,897,470.82,Germany,0.1,422325.54
+2022-08-31,Importer B,Textiles,264,880.28,India,0.05,232393.91999999998
+2023-11-30,Importer C,Electronics,925,15.09,South Africa,0.2,13958.25
+2023-01-31,Importer C,Textiles,55,821.75,Germany,0.15,45196.25
+2023-11-30,Importer A,Machinery,871,236.34,USA,0.15,205852.14
+2023-01-31,Importer C,Machinery,643,909.61,India,0.05,584879.23
+2023-05-31,Importer B,Food Products,800,11.11,India,0.1,8888.0
+2022-06-30,Importer B,Textiles,778,560.62,South Africa,0.05,436162.36
+2022-06-30,Importer A,Machinery,458,759.07,China,0.05,347654.06
+2021-02-28,Importer B,Electronics,979,266.1,USA,0.05,260511.90000000002
+2023-11-30,Importer B,Food Products,878,201.2,South Africa,0.1,176653.59999999998
+2022-04-30,Importer B,Electronics,162,93.26,USA,0.2,15108.12
+2023-12-31,Importer B,Textiles,380,333.17,China,0.05,126604.6
+2023-09-30,Importer A,Textiles,993,564.25,China,0.1,560300.25
+2021-04-30,Importer A,Textiles,87,124.69,South Africa,0.2,10848.03
+2023-09-30,Importer C,Food Products,55,382.93,China,0.05,21061.15
+2022-02-28,Importer B,Machinery,476,18.98,Germany,0.15,9034.48
+2022-09-30,Importer C,Food Products,800,820.49,India,0.2,656392.0
+2022-08-31,Importer A,Electronics,178,137.16,South Africa,0.05,24414.48
+2021-08-31,Importer A,Food Products,391,290.51,USA,0.2,113589.41
+2021-07-31,Importer A,Electronics,349,28.24,Germany,0.2,9855.76
+2021-03-31,Importer A,Food Products,8,437.92,South Africa,0.2,3503.36
+2022-05-31,Importer A,Machinery,833,841.72,China,0.2,701152.76
+2023-09-30,Importer A,Electronics,313,398.23,China,0.2,124645.99
+2021-12-31,Importer A,Textiles,759,187.7,China,0.2,142464.3
+2022-10-31,Importer B,Textiles,835,756.16,China,0.05,631393.6
+2022-10-31,Importer C,Food Products,984,790.92,USA,0.15,778265.2799999999
+2023-06-30,Importer A,Textiles,983,182.02,Germany,0.1,178925.66
+2021-08-31,Importer B,Electronics,443,773.15,India,0.2,342505.45
+2023-03-31,Importer B,Textiles,767,947.82,USA,0.1,726977.9400000001
+2023-03-31,Importer C,Machinery,328,174.71,USA,0.05,57304.880000000005
+2023-10-31,Importer A,Machinery,54,773.27,India,0.2,41756.58
+2022-09-30,Importer C,Food Products,761,711.49,India,0.15,541443.89
+2023-06-30,Importer A,Electronics,239,478.84,China,0.1,114442.76
+2023-09-30,Importer B,Machinery,229,67.34,USA,0.2,15420.86
+2023-04-30,Importer B,Machinery,579,83.95,South Africa,0.05,48607.05
+2023-09-30,Importer B,Electronics,51,853.89,India,0.15,43548.39
+2021-05-31,Importer B,Textiles,609,990.25,India,0.1,603062.25
+2022-07-31,Importer C,Textiles,604,679.29,Germany,0.1,410291.16
+2021-04-30,Importer A,Food Products,264,451.5,South Africa,0.2,119196.0
+2023-11-30,Importer A,Textiles,418,651.1,South Africa,0.15,272159.8
+2022-05-31,Importer C,Electronics,803,598.45,India,0.15,480555.35000000003
+2023-04-30,Importer A,Machinery,96,389.78,China,0.15,37418.88
+2023-06-30,Importer B,Textiles,88,74.97,Germany,0.15,6597.36
+2023-05-31,Importer A,Food Products,78,823.3,South Africa,0.05,64217.399999999994
+2021-06-30,Importer B,Textiles,288,378.12,India,0.15,108898.56
+2023-11-30,Importer C,Electronics,120,820.6,South Africa,0.1,98472.0
+2022-12-31,Importer A,Food Products,814,259.98,Germany,0.1,211623.72
+2023-05-31,Importer C,Textiles,491,11.02,Germany,0.05,5410.82
+2023-07-31,Importer A,Food Products,912,167.35,USA,0.1,152623.19999999998
+2023-11-30,Importer B,Electronics,452,473.85,India,0.1,214180.2
+2023-09-30,Importer C,Machinery,500,944.86,Germany,0.15,472430.0
+2022-09-30,Importer A,Electronics,165,111.17,USA,0.1,18343.05
+2023-08-31,Importer B,Electronics,182,855.67,USA,0.05,155731.94
+2022-11-30,Importer C,Electronics,469,531.75,South Africa,0.15,249390.75
+2023-09-30,Importer C,Electronics,910,827.66,South Africa,0.2,753170.6
+2021-03-31,Importer A,Machinery,735,305.39,USA,0.15,224461.65
+2022-06-30,Importer A,Machinery,823,841.55,South Africa,0.05,692595.6499999999
+2023-01-31,Importer A,Food Products,944,775.09,Germany,0.15,731684.9600000001
+2023-07-31,Importer B,Textiles,978,237.75,China,0.15,232519.5
+2021-03-31,Importer A,Machinery,7,140.02,Germany,0.05,980.1400000000001
+2022-12-31,Importer C,Machinery,330,869.37,USA,0.15,286892.1
+2023-08-31,Importer C,Textiles,775,963.6,USA,0.05,746790.0
+2022-10-31,Importer A,Machinery,673,40.99,Germany,0.05,27586.27
+2022-11-30,Importer A,Electronics,151,733.96,South Africa,0.2,110827.96
+2021-02-28,Importer C,Electronics,85,910.43,South Africa,0.1,77386.55
+2023-03-31,Importer B,Textiles,147,858.79,USA,0.1,126242.12999999999
+2021-02-28,Importer A,Food Products,624,964.88,India,0.15,602085.12
+2023-02-28,Importer A,Food Products,381,762.49,South Africa,0.15,290508.69
+2022-05-31,Importer C,Textiles,915,447.88,Germany,0.2,409810.2
+2023-09-30,Importer A,Textiles,548,318.83,South Africa,0.2,174718.84
+2021-09-30,Importer B,Electronics,285,327.54,Germany,0.2,93348.90000000001
+2023-05-31,Importer C,Food Products,700,727.18,USA,0.05,509025.99999999994
+2023-02-28,Importer A,Machinery,82,748.38,South Africa,0.2,61367.159999999996
+2023-11-30,Importer C,Electronics,514,208.36,Germany,0.2,107097.04000000001
+2023-01-31,Importer A,Textiles,897,869.44,USA,0.15,779887.68
+2022-12-31,Importer A,Food Products,815,717.77,India,0.2,584982.5499999999
+2022-01-31,Importer A,Machinery,709,567.12,Germany,0.05,402088.08
+2021-07-31,Importer B,Machinery,916,476.82,India,0.05,436767.12
+2023-12-31,Importer B,Electronics,523,547.8,India,0.15,286499.39999999997
+2022-08-31,Importer C,Food Products,746,167.65,China,0.2,125066.90000000001
+2021-01-31,Importer A,Food Products,386,211.66,South Africa,0.2,81700.76
+2021-08-31,Importer A,Textiles,707,100.25,Germany,0.05,70876.75
+2022-04-30,Importer B,Food Products,471,162.12,India,0.2,76358.52
+2022-02-28,Importer A,Food Products,119,459.16,China,0.2,54640.04
+2021-12-31,Importer B,Electronics,396,535.05,USA,0.2,211879.8
+2022-11-30,Importer A,Food Products,532,27.68,Germany,0.1,14725.76
+2022-03-31,Importer C,Machinery,261,798.83,India,0.15,208494.63
+2023-04-30,Importer A,Electronics,805,301.23,South Africa,0.1,242490.15000000002
+2023-10-31,Importer A,Electronics,934,912.72,China,0.15,852480.48
+2021-02-28,Importer B,Textiles,256,967.84,India,0.05,247767.04
+2023-08-31,Importer A,Food Products,734,193.6,South Africa,0.2,142102.4
+2022-11-30,Importer A,Textiles,905,467.48,India,0.15,423069.4
+2022-10-31,Importer B,Machinery,226,11.22,Germany,0.1,2535.7200000000003
+2023-01-31,Importer C,Electronics,53,602.34,Germany,0.2,31924.02
+2022-10-31,Importer C,Electronics,940,611.23,Germany,0.05,574556.2000000001
+2022-10-31,Importer B,Electronics,867,255.06,China,0.15,221137.02
+2021-06-30,Importer B,Machinery,500,562.83,Germany,0.15,281415.0
+2022-03-31,Importer B,Machinery,506,233.28,South Africa,0.15,118039.68000000001
+2023-09-30,Importer B,Textiles,854,169.22,India,0.2,144513.88
+2021-08-31,Importer B,Textiles,364,655.0,USA,0.1,238420.0
+2021-05-31,Importer C,Textiles,280,332.67,South Africa,0.1,93147.6
+2021-04-30,Importer C,Food Products,593,594.36,South Africa,0.15,352455.48
+2021-06-30,Importer B,Electronics,714,438.91,Germany,0.05,313381.74
+2023-08-31,Importer A,Electronics,158,984.51,China,0.05,155552.58
+2023-06-30,Importer B,Textiles,632,158.08,India,0.1,99906.56000000001
+2023-11-30,Importer A,Electronics,59,469.95,China,0.05,27727.05
+2022-04-30,Importer B,Textiles,727,683.65,India,0.1,497013.55
+2022-01-31,Importer B,Food Products,128,401.59,India,0.15,51403.52
+2023-06-30,Importer C,Food Products,736,974.95,China,0.1,717563.2000000001
+2022-07-31,Importer A,Machinery,721,724.67,South Africa,0.1,522487.06999999995
+2022-05-31,Importer A,Food Products,882,660.41,India,0.15,582481.62
+2022-07-31,Importer C,Textiles,115,759.49,China,0.05,87341.35
+2023-04-30,Importer C,Food Products,209,953.12,India,0.1,199202.08
+2023-02-28,Importer C,Machinery,526,908.74,USA,0.1,477997.24
+2023-02-28,Importer C,Electronics,521,727.04,South Africa,0.15,378787.83999999997
+2022-11-30,Importer A,Textiles,552,751.67,Germany,0.05,414921.83999999997
+2021-09-30,Importer A,Electronics,962,154.46,India,0.1,148590.52000000002
+2021-12-31,Importer B,Machinery,237,111.76,USA,0.15,26487.120000000003
+2021-01-31,Importer B,Machinery,281,575.2,Germany,0.1,161631.2
+2021-01-31,Importer C,Machinery,359,28.18,Germany,0.2,10116.62
+2023-10-31,Importer C,Electronics,201,487.53,India,0.15,97993.53
+2023-08-31,Importer C,Electronics,758,218.25,China,0.05,165433.5
+2023-01-31,Importer B,Electronics,278,352.56,India,0.05,98011.68000000001
+2021-01-31,Importer B,Electronics,235,778.05,USA,0.05,182841.75
+2022-04-30,Importer B,Machinery,494,941.83,Germany,0.05,465264.02
+2021-05-31,Importer B,Machinery,4,81.69,India,0.1,326.76
+2022-10-31,Importer B,Textiles,666,538.9,China,0.1,358907.39999999997
+2023-05-31,Importer B,Textiles,442,883.71,India,0.05,390599.82
+2021-03-31,Importer B,Electronics,29,91.68,South Africa,0.05,2658.7200000000003
+2021-12-31,Importer C,Food Products,109,826.27,China,0.05,90063.43
+2023-02-28,Importer C,Food Products,610,364.22,USA,0.1,222174.2
+2022-04-30,Importer C,Machinery,727,328.87,Germany,0.05,239088.49
+2022-10-31,Importer C,Machinery,805,977.69,India,0.05,787040.4500000001
+2023-05-31,Importer B,Machinery,75,208.85,China,0.2,15663.75
+2022-02-28,Importer A,Textiles,838,696.26,South Africa,0.2,583465.88
+2023-04-30,Importer B,Textiles,146,823.23,China,0.05,120191.58
+2021-05-31,Importer A,Machinery,128,50.77,South Africa,0.15,6498.56
+2023-06-30,Importer C,Machinery,853,673.68,USA,0.05,574649.0399999999
+2021-05-31,Importer B,Machinery,42,952.03,Germany,0.2,39985.26
+2021-12-31,Importer C,Food Products,356,132.98,USA,0.15,47340.88
